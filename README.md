@@ -5,6 +5,8 @@ A Flutter project.
 ## Getting Started
 
 This project tracks the expenses and manages our transactions. 
+
+
 Hope you like it:)
 
 A few resources to get you started if this is your first Flutter project:
